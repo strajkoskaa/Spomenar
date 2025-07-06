@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Spomenar.Pages.TodayPage"
+             BackgroundColor="#ffe6cc"
+             Title="Споменар">
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+            <Label Text="Прво, како се чувствуваш денес?" />
+            <Editor x:Name="Answer1" HeightRequest="50" />
+
+            <Label Text="Потоа, размисли за миг, кој ти беше најубав момент денес?" />
+            <Editor x:Name="Answer2" HeightRequest="50" />
+
+            <Label Text="А кој најмалку убав?" />
+            <Editor x:Name="Answer3" HeightRequest="50" />
+
+            <Label Text="Издвој ми неколку нешта за што си најблагодарен/на денес?" />
+            <Editor x:Name="Answer4" HeightRequest="50" />
+
+            <Label Text="Што те научи денешниот ден?" />
+            <Editor x:Name="Answer5" HeightRequest="50" />
+
+            <Label Text="Запозна ли нова личност денес?" />
+            <Editor x:Name="Answer6" HeightRequest="50" />
+
+            <Label Text="Дали го промени мислењето за нешто што ти е омилено? Ако да, што е тоа и што влијаеше за тоа да се смени?" />
+            <Editor x:Name="Answer7" HeightRequest="50" />
+
+            <Button Text="Зачувај ја моменталната верзија од себе"
+                    BackgroundColor="#ff9933"
+                    TextColor="White"
+                    Clicked="OnSaveClicked"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

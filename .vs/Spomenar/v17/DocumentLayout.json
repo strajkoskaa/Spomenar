@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\pages\\historypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\pages\\historypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\pages\\historypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\pages\\historypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\pages\\todaypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\pages\\todaypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\pages\\todaypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\pages\\todaypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\pages\\thoughtspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\pages\\thoughtspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\models\\answermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\models\\answermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\data\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\data\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.51\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\pages\\thoughtspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\pages\\thoughtspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|c:\\users\\user\\onedrive\\desktop\\spomenar\\spomenar\\spomenar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1B49C81-4DFF-4301-96C6-C40394EDDF5D}|Spomenar\\Spomenar.csproj|solutionrelative:spomenar\\spomenar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 288,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Pages\\HistoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "Spomenar\\Pages\\HistoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Pages\\HistoryPage.xaml.cs",
+              "RelativeToolTip": "Spomenar\\Pages\\HistoryPage.xaml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:21:11.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThoughtsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Pages\\ThoughtsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Spomenar\\Pages\\ThoughtsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Pages\\ThoughtsPage.xaml.cs",
+              "RelativeToolTip": "Spomenar\\Pages\\ThoughtsPage.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:14:40.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodayPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Pages\\TodayPage.xaml.cs",
+              "RelativeDocumentMoniker": "Spomenar\\Pages\\TodayPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Pages\\TodayPage.xaml.cs",
+              "RelativeToolTip": "Spomenar\\Pages\\TodayPage.xaml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:15:43.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodayPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Pages\\TodayPage.xaml",
+              "RelativeDocumentMoniker": "Spomenar\\Pages\\TodayPage.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Pages\\TodayPage.xaml",
+              "RelativeToolTip": "Spomenar\\Pages\\TodayPage.xaml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T09:01:50.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Pages\\HistoryPage.xaml",
+              "RelativeDocumentMoniker": "Spomenar\\Pages\\HistoryPage.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Pages\\HistoryPage.xaml",
+              "RelativeToolTip": "Spomenar\\Pages\\HistoryPage.xaml",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T09:02:04.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Data\\AppDatabase.cs",
+              "RelativeDocumentMoniker": "Spomenar\\Data\\AppDatabase.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Data\\AppDatabase.cs",
+              "RelativeToolTip": "Spomenar\\Data\\AppDatabase.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:03:19.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnswerModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Models\\AnswerModel.cs",
+              "RelativeDocumentMoniker": "Spomenar\\Models\\AnswerModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Models\\AnswerModel.cs",
+              "RelativeToolTip": "Spomenar\\Models\\AnswerModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:02:59.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Spomenar\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Spomenar\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T20:03:03.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\App.xaml",
+              "RelativeDocumentMoniker": "Spomenar\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\App.xaml",
+              "RelativeToolTip": "Spomenar\\App.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T09:03:34.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Spomenar\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\App.xaml.cs",
+              "RelativeToolTip": "Spomenar\\App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:03:40.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Spomenar\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\AppShell.xaml",
+              "RelativeToolTip": "Spomenar\\AppShell.xaml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T09:11:22.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Spomenar\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\AppShell.xaml.cs",
+              "RelativeToolTip": "Spomenar\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:09:00.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.51\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.51\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.51\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.51\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AgIAAHUCAAAAAAAAAAAowIoCAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-06T15:21:05.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Spomenar\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\MainPage.xaml.cs",
+              "RelativeToolTip": "Spomenar\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA9wAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:19:38.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThoughtsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Pages\\ThoughtsPage.xaml",
+              "RelativeDocumentMoniker": "Spomenar\\Pages\\ThoughtsPage.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Pages\\ThoughtsPage.xaml",
+              "RelativeToolTip": "Spomenar\\Pages\\ThoughtsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T09:01:32.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Spomenar\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\MauiProgram.cs",
+              "RelativeToolTip": "Spomenar\\MauiProgram.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:30:36.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Spomenar\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\MainPage.xaml",
+              "RelativeToolTip": "Spomenar\\MainPage.xaml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T12:04:18.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Spomenar.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Spomenar.csproj",
+              "RelativeDocumentMoniker": "Spomenar\\Spomenar.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Spomenar\\Spomenar\\Spomenar.csproj",
+              "RelativeToolTip": "Spomenar\\Spomenar.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T09:00:27.71Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

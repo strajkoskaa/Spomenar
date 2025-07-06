@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"  
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"  
+             x:Class="Spomenar.Pages.HistoryPage"  
+             Title="Споменар"  
+             BackgroundColor="#ffe6cc">  
+    <ScrollView>
+        <VerticalStackLayout Padding="10, 10, 10, 10">
+            <CollectionView x:Name="QuestionsCollectionView"  
+                            ItemsSource="{Binding QuestionGroups}"  
+                            SelectionMode="None">  
+                <CollectionView.ItemsLayout>  
+                    <LinearItemsLayout Orientation="Vertical" ItemSpacing="10"/>  
+                </CollectionView.ItemsLayout>  
+                <CollectionView.ItemTemplate>  
+                    <DataTemplate>  
+                        <Border BackgroundColor="#ffe6cc"
+                                Margin="0"
+                                Stroke="Black"
+                                StrokeThickness="1"
+                                StrokeShape="RoundRectangle 8">
+                            <VerticalStackLayout Padding="10" Spacing="6">  
+                                <Label Text="{Binding Question}" FontAttributes="Bold" FontSize="18" Margin="0,0,0,6"/>  
+                                <CollectionView ItemsSource="{Binding VisibleItems}" SelectionMode="None" Margin="0" BackgroundColor="Transparent">
+                                    <CollectionView.ItemsLayout>
+                                        <LinearItemsLayout Orientation="Vertical" ItemSpacing="4"/>
+                                    </CollectionView.ItemsLayout>
+                                    <CollectionView.ItemTemplate>
+                                        <DataTemplate>
+                                            <Grid Padding="0,0,0,6" ColumnDefinitions="*,Auto" VerticalOptions="Center">
+                                                <VerticalStackLayout Grid.Column="0">
+                                                    <Label Text="{Binding Date}" FontSize="12" TextColor="Gray"/>
+                                                    <Label Text="{Binding Text}" FontSize="14"/>
+                                                </VerticalStackLayout>
+                                                <Button Grid.Column="1"
+                                                        Text="🗑"
+                                                        Command="{Binding BindingContext.DeleteAnswerCommand, Source={x:Reference QuestionsCollectionView}}"
+                                                        CommandParameter="{Binding .}"
+                                                        BackgroundColor="Transparent"
+                                                        FontSize="16"
+                                                        Padding="0"
+                                                        WidthRequest="32"
+                                                        HeightRequest="32"
+                                                        VerticalOptions="Start"
+                                                        HorizontalOptions="End"/>
+                                            </Grid>
+                                        </DataTemplate>
+                                    </CollectionView.ItemTemplate>
+                                </CollectionView>
+                                <Button Text="{Binding ShowAllButtonText}"  
+                                        Command="{Binding ToggleShowAllCommand}"  
+                                        Margin="0,4,0,0"  
+                                        HorizontalOptions="End"  
+                                        IsVisible="{Binding ShowAllButtonVisible}"   
+                                        FontSize="12"  
+                                        Padding="6,2"/>  
+                            </VerticalStackLayout>  
+                        </Border>  
+                    </DataTemplate>  
+                </CollectionView.ItemTemplate>  
+            </CollectionView>  
+        </VerticalStackLayout>  
+    </ScrollView>  
+</ContentPage>
