@@ -5,7 +5,7 @@
              Title="Споменар"  
              BackgroundColor="#ffe6cc">  
     <ScrollView>
-        <VerticalStackLayout Padding="10, 10, 10, 10">
+        <VerticalStackLayout Padding="15, 15, 15, 15">
             <CollectionView x:Name="QuestionsCollectionView"  
                             ItemsSource="{Binding QuestionGroups}"  
                             SelectionMode="None">  
